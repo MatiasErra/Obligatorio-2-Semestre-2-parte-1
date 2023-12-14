@@ -1,0 +1,78 @@
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.exe
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.deps.json
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.json
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.genruntimeconfig.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmInicio.resources
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmLibro.resources
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmVenta.resources
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.GenerateResource.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfoInputs.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfo.cs
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.exe
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.deps.json
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.json
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.dev.json
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.genruntimeconfig.cache
+C:\Users\there\Downloads\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmPersonas.resources
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmInicio.resources
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmLibro.resources
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmPersonas.resources
+C:\Users\Usuario\Desktop\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmVenta.resources
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.exe
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.deps.json
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.json
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.dev.json
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.AssemblyReference.cache
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmInicio.resources
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmLibro.resources
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmPersonas.resources
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmVenta.resources
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.GenerateResource.cache
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfoInputs.cache
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfo.cs
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.CoreCompileInputs.cache
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.genruntimeconfig.cache
+E:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmEstadisticas.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.exe
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.deps.json
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.json
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.runtimeconfig.dev.json
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\bin\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.AssemblyReference.cache
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmEstadisticas.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmInicio.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmLibro.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmPersonas.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.Presentacion.frmVenta.resources
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.GenerateResource.cache
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfoInputs.cache
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.AssemblyInfo.cs
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.csproj.CoreCompileInputs.cache
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.dll
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.pdb
+D:\Clases\clases de base de datos 1\Obligatorio1octubre\Obligatorio1octubre\obj\Debug\netcoreapp3.1\Obligatorio1octubre.genruntimeconfig.cache
